@@ -1,0 +1,91 @@
+.main{
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+    
+    
+}
+.login-screen{
+  height: 300px;
+  width: 250px;
+  background-color: #FFFFFF; 
+  border: 1px #8E8E8E solid; 
+  margin: auto;
+  position: relative;
+  left: 100px;
+  top: 50px;
+  
+}
+.register{
+width: 250px;
+height: 50px;
+border: 1px #8E8E8E solid;
+margin: auto;
+position: relative;
+left: 100px;
+top: 60px;
+}
+.paragraph-2{
+    text-align: center;
+}
+.image-1{
+    margin-left: 40px;
+    margin-top: 10px;
+    
+}
+.input-1{
+    background-color: #FAFAFA;
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 25px;
+   border: 0.4px gray solid;
+}
+.input-2{
+    margin-top: 5px;
+    background-color: #FAFAFA;
+    margin-left: 30px ;
+    height: 25px;
+    border: 0.4px gray solid
+}
+.login-button{
+    margin-left: 30px;
+    background-color: #B2DFFC;
+    height: 20px;
+    width: 177px;
+    margin-top: 10px;
+    color: white;
+    border: #8E8E8E;
+}
+.Paragraph{
+    filter: contrast(3.13);
+    color: #8E8E8E;
+    margin-left: 100px;
+}
+.Facebook-login{
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: large;
+}
+.login-phone{
+    display: inline-block;
+    position: relative;
+    bottom: 370px;
+    left: 250px;
+    margin-top: 30px;
+}
+ footer{
+     width: 45rem;
+     display: flex;
+     flex-direction: column;
+     margin: 4rem auto 0 auto;
+ }
+ .footer-links{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     list-style-type: none;
+     position: relative;
+     bottom: 25rem;
+     color: #8E8E8E;
+     
+ }
